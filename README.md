@@ -2,6 +2,8 @@
 
 All projects carried out in the course, of 350 hours, of data science with python offered by IT Academy Barcelona.
 
+Course year: 2021
+
 Here it can be found:
 
 - Statistics for data science
