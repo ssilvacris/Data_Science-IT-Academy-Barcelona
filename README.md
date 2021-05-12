@@ -19,7 +19,7 @@ Concepts of the structure of a matrix, dimension, axes and vectorization to redu
 
 
 ## [Sampling](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sampling)
-
+Sampling methods were performed with a sports-themed dataset.
 
 
 ## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_7)
