@@ -11,3 +11,5 @@ Here it can be found:
 
 
 ## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_7)
+
+Project with calculate and graphs about data statistics.
