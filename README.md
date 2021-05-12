@@ -8,3 +8,6 @@ Here it can be found:
 - Python libraries ( Numpy, Pandas, Matplotlib, Seaborn)
 - Machine Learning (supervised, unsupervised)
 - SQL, NoSQL
+
+
+## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/new/main/Sprint_7)
