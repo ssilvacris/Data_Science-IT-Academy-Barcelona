@@ -10,4 +10,4 @@ Here it can be found:
 - SQL, NoSQL
 
 
-## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/new/main/Sprint_7)
+## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_7)
