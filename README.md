@@ -1,4 +1,4 @@
-# Data_Analysis_Quantium
+# Data Science- IT Academy Barcelona
 
 All projects carried out in the course, of 350 hours, of data science with python offered by IT Academy Barcelona.
 
