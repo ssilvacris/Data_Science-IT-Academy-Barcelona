@@ -1,9 +1,10 @@
 # Data_Analysis_Quantium
-Data analysis and identification of benchmark stores. Quantium virtual experience
 
+All projects carried out in the course, of 350 hours, of data science with python offered by IT Academy Barcelona.
 
-Project with the objective to conduct analysis of clients and their transaction dataset. Furthermore, it was possible identify customer purchasing behaviours. All the project was develop in python This project contains:
+Here it can be found:
 
-Data validation
-Data visualisation
-Data wrangling
+- Statistics for data science
+- Python libraries ( Numpy, Pandas, Matplotlib, Seaborn)
+- Machine Learning (supervised, unsupervised)
+- SQL, NoSQL
