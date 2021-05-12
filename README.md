@@ -10,11 +10,15 @@ Here it can be found:
 - SQL, NoSQL
 
 
+
+## [Images in numpy](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Tarefa_2)
+
+Concepts of the structure of a matrix, dimension, axes and vectorization to reduce the use of for loops in arithmetic or mathematical operations.
+
+
+
 ## [Statistics](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_7)
 
 Project with calculate and graphs about data statistics.
 
 
-## [Images in numpy](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Tarefa_2)
-
-Concepts of the structure of a matrix, dimension, axes and vectorization to reduce the use of for loops in arithmetic or mathematical operations.
