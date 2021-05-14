@@ -27,3 +27,6 @@ Sampling methods were performed with a sports-themed dataset.
 Project with calculate and graphs about data statistics.
 
 
+## [Hypothesis Testing]()
+
+The goal of Sprint 8 is to present the basics of Hypothesis Testing, the main goal of statistics.
