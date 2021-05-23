@@ -30,3 +30,12 @@ Project with calculate and graphs about data statistics.
 ## [Hypothesis Testing](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_8-Hypothesis_Testing)
 
 The goal of Sprint 8 is to present the basics of Hypothesis Testing, the main goal of statistics.
+
+## [Featuring Engineering](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_9)
+
+This project has the following features:
+
+* Normalize categorical attributes with dummy
+* Normalize numeric attributes with StandardScaler
+* Apply the Principal Component Analysis (PCA)
+
