@@ -39,3 +39,13 @@ This project has the following features:
 * Normalize numeric attributes with StandardScaler
 * Apply the Principal Component Analysis (PCA)
 
+
+## [Train and Test](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_11)
+
+This project has the goal of applying the following steps on the data:
+
+* Preprocesament
+* Transformació
+* Dummy Variable
+* Train and Test
+
