@@ -50,3 +50,11 @@ This project has the goal of applying the following steps on the data:
 * Dummy Variable
 * Train and Test
 
+## [Supervised Learning - Classification](https://github.com/ssilvacris/Data_Science-IT-Academy-Barcelona/tree/main/Sprint_13_%20Supervisat_Classificacio)
+
+* Classification trees
+* KNN - k-Nearest Neighbors
+* Logistic Regression
+* Support Machine Machine
+* XGboost
+
