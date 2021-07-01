@@ -1,5 +1,5 @@
 
-## S18 T01: NoSQL database task
+## S18 T01: NoSQL database 
 
 ### Targets
 
