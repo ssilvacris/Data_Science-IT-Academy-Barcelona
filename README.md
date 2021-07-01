@@ -9,6 +9,7 @@ Here it can be found:
 - Statistics for data science
 - Python libraries ( Numpy, Pandas, Matplotlib, Seaborn)
 - Machine Learning (supervised, unsupervised)
+- Web scraping (BeautifulSoup, Selenium, Scrapy)
 - SQL, NoSQL
 
 
